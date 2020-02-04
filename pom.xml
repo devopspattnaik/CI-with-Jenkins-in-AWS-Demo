@@ -49,5 +49,12 @@
                 </configuration>
             </plugin>
         </plugins>
+        <distributionManagement>
+         <repository>
+             <id>DeepikaRepo</id>
+             <name>DeepikaRepo</name>
+             <url>http://35.244.53.41:8081/nexus/content/repositories/DeepikaRepo</url>
+           </repository>
+        </distributionManagement>    
     </build>
 </project>
