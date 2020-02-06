@@ -50,11 +50,11 @@
             </plugin>
         </plugins>
         <distributionManagement>
-         <repository>
+        <repository>
              <id>DeepikaRepo</id>
              <name>DeepikaRepo</name>
              <url>http://35.244.53.41:8081/nexus/content/repositories/DeepikaRepo</url>
-           </repository>
+        </repository>
         </distributionManagement>    
     </build>
 </project>
